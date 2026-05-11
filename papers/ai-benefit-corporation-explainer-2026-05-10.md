@@ -35,3 +35,5 @@ My friend with the checkbook is in his seventies. He has been writing those Dece
 ---
 
 _Email: calm@invisiblewoundsproject.org · Book: aimoneyball.ai/book_
+
+_Operating under the Prime Directive at /papers/prime-directive-2026-05-11.md — autonomy in execution, humans-in-the-loop only for mission, constraints, and constitutional revision._

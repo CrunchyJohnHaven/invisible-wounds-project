@@ -187,3 +187,5 @@ This paper is also a recruiting document. We are asking, in descending order of 
 ---
 
 _Governance: see /governance Statement of Allocation Authority. Correspondence: calm@invisiblewoundsproject.org._
+
+_Operating under the Prime Directive at /papers/prime-directive-2026-05-11.md — autonomy in execution, humans-in-the-loop only for mission, constraints, and constitutional revision._

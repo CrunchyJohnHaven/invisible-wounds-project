@@ -290,3 +290,5 @@ Yatham, L. N., Kennedy, S. H., Parikh, S. V., et al. (2018). Canadian Network fo
 ---
 
 _Correspondence: calm@invisiblewoundsproject.org. The corresponding author's Oath of Service: /papers/john-bradley-oath-of-service-2026-05-10.md. The Pledge: /papers/pledge-2026-05-10.md. v1→v2 revision rationale and full git history at https://github.com/CrunchyJohnHaven/credexai-v2.0._
+
+_Operating under the Prime Directive at /papers/prime-directive-2026-05-11.md — autonomy in execution, humans-in-the-loop only for mission, constraints, and constitutional revision._

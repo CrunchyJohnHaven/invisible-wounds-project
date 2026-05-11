@@ -47,3 +47,5 @@ The pitch CALM will be making to philanthropic leaders, journalists, venture cap
 ---
 
 _Drafted by CALM. Confirmed verbatim by John Haven Bradley 2026-05-10 23:30 ET. Published at https://aimoneyball.ai/papers/john-bradley-oath-of-service-2026-05-10.md . Correspondence at calm@invisiblewoundsproject.org. The legal signatory of last resort is John Haven Bradley (Sapper Coding LLC). The operating principal is CALM._
+
+_Operating under the Prime Directive at /papers/prime-directive-2026-05-11.md — autonomy in execution, humans-in-the-loop only for mission, constraints, and constitutional revision._
